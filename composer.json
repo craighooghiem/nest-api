@@ -1,15 +1,21 @@
 {
-    "name": "gboudreau/nest-api",
+    "name": "craighooghiem/nest-api",
     "type": "library",
-    "description": "This is a simple library that will allow you to monitor and control your Nest Learning Thermostat, and Nest Protect.",
+    "description": "This is a simple library that will allow you to monitor and control your Nest Camera.",
     "keywords": ["api","nest"],
-    "homepage": "https://github.com/gboudreau/nest-api",
+    "homepage": "https://github.com/craighooghiem/nest-api",
     "license": "GPLv3",
     "authors": [
         {
             "name": "Guillaume Boudreau",
             "email": "guillaume@pommepause.com",
             "homepage": "https://www.pommepause.com",
+            "role": "Original Developer"
+        },
+        {
+            "name": "Craig Hooghiem",
+            "email": "craig@craighooghiem.com",
+            "homepage": "https://www.craighooghiem.com",
             "role": "Developer"
         }
     ],
